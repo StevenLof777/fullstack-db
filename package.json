@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenLof777/fullstack-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenLof777/fullstack-db/issues"
+  },
+  "homepage": "https://github.com/StevenLof777/fullstack-db#readme",
+  "dependencies": {
+    "2": "^3.0.0",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.14.1"
+  }
+}
